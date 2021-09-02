@@ -136,7 +136,7 @@ if __name__ == "__main__":
     # 入力画像の形状
     input_shape = (32, 32, 3)
     # 分類クラス数
-    num_classes = 10
+    num_classes = 100
     # エポック数
     epochs = 30
     # バッチサイズ
