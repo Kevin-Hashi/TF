@@ -1,0 +1,2 @@
+com/self/mycifarten/BuildConfig.java
+ com.self.mycifarten.BuildConfig

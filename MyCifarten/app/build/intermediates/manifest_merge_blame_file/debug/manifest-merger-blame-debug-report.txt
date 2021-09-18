@@ -1,0 +1,54 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.self.mycifarten"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+8-->E:\tf cifar10\MyCifarten\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->E:\tf cifar10\MyCifarten\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->E:\tf cifar10\MyCifarten\app\src\main\AndroidManifest.xml:20:5-79
+11-->E:\tf cifar10\MyCifarten\app\src\main\AndroidManifest.xml:20:22-77
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->E:\tf cifar10\MyCifarten\app\src\main\AndroidManifest.xml:21:5-80
+12-->E:\tf cifar10\MyCifarten\app\src\main\AndroidManifest.xml:21:22-78
+13
+14    <application
+14-->E:\tf cifar10\MyCifarten\app\src\main\AndroidManifest.xml:5:5-19:19
+15        android:allowBackup="true"
+15-->E:\tf cifar10\MyCifarten\app\src\main\AndroidManifest.xml:6:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.5.0] E:\Users\hashi\.gradle\caches\transforms-2\files-2.1\89e0cf0bbc534a39e02e09b6bb5ba1d7\core-1.5.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:icon="@mipmap/ic_launcher"
+19-->E:\tf cifar10\MyCifarten\app\src\main\AndroidManifest.xml:7:9-43
+20        android:label="@string/app_name"
+20-->E:\tf cifar10\MyCifarten\app\src\main\AndroidManifest.xml:8:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->E:\tf cifar10\MyCifarten\app\src\main\AndroidManifest.xml:9:9-54
+22        android:supportsRtl="true"
+22-->E:\tf cifar10\MyCifarten\app\src\main\AndroidManifest.xml:10:9-35
+23        android:theme="@style/Theme.MyCifarten" >
+23-->E:\tf cifar10\MyCifarten\app\src\main\AndroidManifest.xml:11:9-48
+24        <activity android:name="com.self.mycifarten.MainActivity" >
+24-->E:\tf cifar10\MyCifarten\app\src\main\AndroidManifest.xml:12:9-18:20
+24-->E:\tf cifar10\MyCifarten\app\src\main\AndroidManifest.xml:12:19-47
+25            <intent-filter>
+25-->E:\tf cifar10\MyCifarten\app\src\main\AndroidManifest.xml:13:13-17:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->E:\tf cifar10\MyCifarten\app\src\main\AndroidManifest.xml:14:17-69
+26-->E:\tf cifar10\MyCifarten\app\src\main\AndroidManifest.xml:14:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->E:\tf cifar10\MyCifarten\app\src\main\AndroidManifest.xml:16:17-77
+28-->E:\tf cifar10\MyCifarten\app\src\main\AndroidManifest.xml:16:27-74
+29            </intent-filter>
+30        </activity>
+31    </application>
+32
+33</manifest>

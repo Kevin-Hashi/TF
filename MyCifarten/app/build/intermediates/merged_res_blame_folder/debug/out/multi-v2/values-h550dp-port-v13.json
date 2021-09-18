@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\tf cifar10\\MyCifarten\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h550dp-port-v13\\values-h550dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "E:\\Users\\hashi\\.gradle\\caches\\transforms-2\\files-2.1\\42bf532a49f535b685f3d792dd0863a3\\material-1.4.0\\res\\values-h550dp-port-v13\\values-h550dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
+                    }
+                }
+            ]
+        }
+    ]
+}
